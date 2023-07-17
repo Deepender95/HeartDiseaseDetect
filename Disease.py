@@ -78,4 +78,5 @@ def main():
     st.success(diab_diagnosis)
 
 if _name_ == '_main_':
-    main()
+    main()
+   
